@@ -1,1 +1,2 @@
-# densely-connected-convolutional-networks
+# DenseNet-ImageNet pure tensorflow!
+will upload soon!
