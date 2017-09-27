@@ -158,7 +158,7 @@ def _get_map():
 # do you need this function?
 # for ImageNet data, there may be two different label strategy , one is the official labels which range [1, 1000],
 # the other is the obtained by ascending rank of the WNID, which range [0, 999]
-# the latter is much more popular than former, and it looks like in classes.txt (note the WNID !)
+# the latter is much more popular than former, and it looks like in /Resources/ascending_order.txt (note the WNID !)
 # so if you using latter label, you don't need this function
 # this function helps to map the ascending WNID labels to official labels (not [1, 1000] but [0, 999] just minus 1)
 # for those who (for example, me) are using the ImageNet official style label, must use this function
