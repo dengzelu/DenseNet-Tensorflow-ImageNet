@@ -10,6 +10,3 @@ Note that there two label strategy for ImageNet data. One is the official label,
 
 ### download
 DenseNet_161 weights file [BaiduDisk](http://pan.baidu.com/s/1i4DLPGD)
-
-### very thanks for starrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
-any questions, problems, issues email 100301901@qq.com for 中国朋友 and dengzelu@gmail.com for international friends
